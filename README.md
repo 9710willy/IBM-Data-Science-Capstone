@@ -2,7 +2,7 @@
 
 ## Introduction / Business Problem
 
-Nashville is one of the fastest growing city in America. Considering the significant influx of population every year and city-wide construction, one might consider a business opportunity in Nashville. The business question this report will answer is: *Where would be a good place to open up a new retaurant, and what type?*.
+Nashville is one of the fastest growing city in America. Considering the significant influx of population every year and city-wide construction, one might consider a business opportunity in Nashville. The business question this report will answer is: *Where would be a good place to open up a new restaurant, and what type?*.
 
 ## Data
 
